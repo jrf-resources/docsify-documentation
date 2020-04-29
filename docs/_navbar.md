@@ -4,3 +4,4 @@
 * [Linux](/linux/)
 * [Nginx](/nginx/)
 * [Powershell](/powershell/)
+* [WordPress](/wordpress/)
