@@ -1,3 +1,6 @@
 * [Home](/)
-* [Unsorted](/unsorted/)
 * [Bash](/bash/)
+* [Docker](/docker/)
+* [Linux](/linux/)
+* [Nginx](/nginx/)
+* [Powershell](/powershell/)
