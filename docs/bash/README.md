@@ -1,5 +1,6 @@
 # Bash
-
-- [Commands](/bash/commands.md)
-
-- [How to Find Files](/bash/find-files.md)
+### [Commands](/bash/commands)
+### [Tools](/bash/tools)
+### [Finding Files](/bash/find-files)
+### [Killing Processes](/bash/kill-proc)
+### [String Operations](/bash/string-ops)
